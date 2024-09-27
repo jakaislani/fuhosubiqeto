@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fuhosubiqeto.netlify.app/sitemap.xml
